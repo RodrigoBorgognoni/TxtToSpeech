@@ -6,7 +6,12 @@
     <StackLayout>
         <Entry x:Name="Enter"/>
 
-        <Button Text="Falar" Clicked="ClickedButton"/>
+        <Button Text="Fale" Clicked="ClickedButton"
+                CornerRadius="5"
+                BackgroundColor="#000"
+                TextColor="#fff"
+                FontSize="18"
+                FontAttributes="Bold"/>
     </StackLayout>
 
 </ContentPage>
