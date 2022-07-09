@@ -6,7 +6,7 @@
     <StackLayout>
         <Entry x:Name="Enter"/>
 
-        <Button Text="Speak" Clicked="ClickedButton"/>
+        <Button Text="Falar" Clicked="ClickedButton"/>
     </StackLayout>
 
 </ContentPage>
